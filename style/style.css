@@ -15,7 +15,6 @@
 
 header {
     padding: 23px 86px 100px 198px;
-    /* border: 1px outset rgb(218, 218, 218); */
     display: flex;
     justify-content: space-between;
 }
@@ -29,7 +28,6 @@ header nav a {
     font-weight: 400;
     font-size: 11px;
     line-height: 24px;
-    /* identical to box height, or 218% */
     text-transform: uppercase;
     letter-spacing: 1.5px;
     text-transform: uppercase;
@@ -58,8 +56,6 @@ header nav a {
     font-weight: 400;
     font-size: 11px;
     line-height: 24px;
-    /* identical to box height, or 218% */
-
     letter-spacing: 1.5px;
     text-transform: uppercase;
 
@@ -104,9 +100,6 @@ header nav a {
     font-weight: 400;
     font-size: 18px;
     line-height: 28px;
-    /* identical to box height, or 156% */
-
-
     color: #C3BAB1;
 }
 
@@ -153,9 +146,6 @@ header nav a {
     font-weight: 400;
     font-size: 16px;
     line-height: 22px;
-    /* or 138% */
-
-
     color: #101010;
 
 }
@@ -193,7 +183,6 @@ header nav a {
     font-weight: 400;
     font-size: 19px;
     line-height: 36px;
-    /* identical to box height, or 189% */
     color: #101010;
 
 }
@@ -207,7 +196,8 @@ header nav a {
     height: 36px;
     width: 225px;
 }
-.text_end p{
+
+.text_end p {
     font-size: 16px;
 }
 
@@ -220,8 +210,9 @@ header nav a {
     border-bottom: 2px solid;
     width: 92px;
 }
-.EXPAND p{
-        font-size: 16px;
+
+.EXPAND p {
+    font-size: 16px;
 }
 
 
@@ -238,7 +229,8 @@ header nav a {
     align-items: center;
     gap: 10px;
 }
-.keep_btn p{
+
+.keep_btn p {
     font-size: 16px;
 }
 
@@ -282,6 +274,9 @@ header nav a {
     padding-top: 10px;
 }
 
+.cont1_right img {
+    width: 100%;
+}
 
 .keep_p {
     margin-top: 120px;
@@ -320,7 +315,8 @@ header nav a {
 .for_name {
     color: #b6b6b6;
 }
-.for_name p{
+
+.for_name p {
     font-size: 16px;
 }
 
@@ -331,10 +327,11 @@ header nav a {
     padding-top: 61px;
     color: #b6b6b6;
 }
-.for_text h1{
+
+.for_text h1 {
     font-size: 30px;
 }
- 
+
 .container_1 {
     background: #101010;
     display: flex;
